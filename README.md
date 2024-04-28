@@ -12,10 +12,18 @@ My Github stats:<br>
 The code language I use:<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckDuckStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+The languages I can say:<br>
+| Language | How? |
+|-----|-----|
+| 中文 | 母语 |
+| English | Just a little bit |
+| 日本語 | 一部しか読めない |
+
 ## See my website?
 These are the pages you can now view:
-| website | Show what |
+| Website | Show what |
 |-----|-----|
+| [Personal homepage](https://duckduckstudio.github.io/yazicbs.github.io/) | Look what I'm doing. |
 
 
 ## Contact me?<br>
