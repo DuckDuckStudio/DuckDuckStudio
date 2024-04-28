@@ -22,7 +22,7 @@ The languages I can say:<br>
 | 日本語 | 一部しか読めない |
 
 ## See my website?
-These are the pages you can now view:<br>
+These are the pages you can view now:<br>
 | Website | Show what |
 |-----|-----|
 | [Personal homepage](https://duckduckstudio.github.io/yazicbs.github.io/) | Look what I'm doing. |
