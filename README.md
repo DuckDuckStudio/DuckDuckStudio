@@ -1,6 +1,10 @@
 # Hello! I am 鸭鸭「カモ」!
 I am a student developer currently writing some interesting projects:<br>
-**[Fufu Tools](https://github.com/DuckDuckStudio/Fufu_Tools)！**<br>
+
+[![Fufu Tools](https://github-stats.ubrong.com/api/pin/?username=DuckDuckStudio&repo=Fufu_Tools)](https://github.com/DuckDuckStudio/Fufu_Tools)
+[![Powered by Akasha Terminal](https://github-stats.ubrong.com/api/pin/?username=DuckDuckStudio&repo=powered_by_akasha_terminal)](https://github.com/DuckDuckStudio/powered_by_akasha_terminal)<br>
+[![Chinese Git](https://github-stats.ubrong.com/api/pin/?username=DuckDuckStudio&repo=Chinese_git)](https://github.com/DuckDuckStudio/Chinese_git)
+[![personal website](https://github-stats.ubrong.com/api/pin/?username=DuckDuckStudio&repo=yazicbs.github.io)](https://github.com/DuckDuckStudio/yazicbs.github.io)<br>
 
 My Github stats:
 ![鸭鸭「カモ」的 GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckDuckStudio&theme=dark&show_icons=true)
