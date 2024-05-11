@@ -23,7 +23,6 @@ These are the pages you can view now:<br>
 | [Articles](https://duckduckstudio.github.io/yazicbs.github.io/Articles/) | My Articles and Blogs and Notes. |
 | [Tools](https://duckduckstudio.github.io/yazicbs.github.io/Tools/) | Some of the tools I've made. |
 | [Interesting](https://github.com/DuckDuckStudio/yazicbs.github.io/tree/main/Interesting) | Some fun webpage, and they are NO EXTERNAL LINKS to they. |
-| [idle gossip](https://duckduckstudio.github.io/yazicbs.github.io/%E6%97%A0%E8%81%8A%E9%97%B2%E8%AF%9D.html) | There's NOTHING on this webpage, REALLY! |
 | [A Certain Duck's Minecraft World](https://duckduckstudio.github.io/yazicbs.github.io/minecraft/) | A Certain Duck's Minecraft World. |
 | [A Certain Duck's Genshin Impact Daily Life](https://duckduckstudio.github.io/yazicbs.github.io/GenshinImpact/) | A Certain Duck's Genshin Impact Daily Life(Photos&Video) |
 | [Fufu Tools](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/) | Official website of Fufu Tools. |
