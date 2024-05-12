@@ -36,4 +36,4 @@ QQ：1707230454<br>
 <div id="header">
   <img src="https://komarev.com/ghpvc/?username=DuckDuckStudio&style=for-the-badge&color=blue" alt=""/>
 </div>
-Check out my personal page for more information:[https://duckduckstudio.github.io/yazicbs.github.io/](https://duckduckstudio.github.io/yazicbs.github.io/)
+Check out my personal page for more information: [https://duckduckstudio.github.io/yazicbs.github.io/](https://duckduckstudio.github.io/yazicbs.github.io/)
