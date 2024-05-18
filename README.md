@@ -1,7 +1,6 @@
 # Hello! I am 鸭鸭「カモ」!
 I am a student developer currently writing some interesting projects.  
 I don't use X (Twitter) often.  
-如果我自从某天开始没有提交，则...我有可能已经没了。  
 
 My Github stats:  
 ![鸭鸭「カモ」的 GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckDuckStudio&theme=dark&show_icons=true)
@@ -36,7 +35,7 @@ Email: <Yzcbs123@163.com>
 QQ：1707230454  
 
 <div id="header">
-  <img src="https://komarev.com/ghpvc/?username=DuckDuckStudio&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=DuckDuckStudio&style=for-the-badge&color=blue" alt="Visit Count"/>
 </div>
 
 Check out my personal page for more information: [https://duckduckstudio.github.io/yazicbs.github.io/](https://duckduckstudio.github.io/yazicbs.github.io/)
