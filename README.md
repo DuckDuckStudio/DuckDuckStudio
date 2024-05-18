@@ -6,7 +6,7 @@ My Github stats:
 ![鸭鸭「カモ」的 GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckDuckStudio&theme=dark&show_icons=true)
 
 The code language I use:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckDuckStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckDuckStudio&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 The languages I can say:  
 | Language | How? |
