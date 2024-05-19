@@ -1,6 +1,6 @@
 # Hello! I am 鸭鸭「カモ」!
 I am a student currently writing some interesting projects.  
-I don't use X (Twitter) often.  
+I DON'T use X (Twitter) often.  
 
 My Github stats:  
 ![鸭鸭「カモ」的 GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckDuckStudio&theme=dark&show_icons=true)
