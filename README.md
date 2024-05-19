@@ -25,9 +25,9 @@ These are the pages you can view now:
 | [Tools](https://duckduckstudio.github.io/yazicbs.github.io/Tools/) | Some of the tools I've made. |
 | [Interesting](https://github.com/DuckDuckStudio/yazicbs.github.io/tree/main/Interesting) | Some fun webpage, and they are NO EXTERNAL LINKS to they. |
 | [A Certain Duck's Minecraft World](https://duckduckstudio.github.io/yazicbs.github.io/minecraft/) | A Certain Duck's Minecraft World. |
-| [A Certain Duck's Genshin Impact Daily Life](https://duckduckstudio.github.io/yazicbs.github.io/GenshinImpact/) | A Certain Duck's Genshin Impact Daily Life(Photos&Video) |
+| [A Certain Duck's Genshin Impact Daily Life](https://duckduckstudio.github.io/yazicbs.github.io/GenshinImpact/) | A Certain Duck's "Genshin Impact" Daily (Photos&Video) |
 | [Fufu Tools](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/) | Official website of Fufu Tools. |
-| [A certain duck's record of Music games](https://duckduckstudio.github.io/yazicbs.github.io/music_games/) | A certain duck's record of Music games. And This is an EXPERIMENTAL webpage! |
+| [A certain duck's record of Music games](https://duckduckstudio.github.io/yazicbs.github.io/music_games/) | A certain duck's record of Music games. |
 And so on ...  
 
 ## Contact me?  
