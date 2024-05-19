@@ -8,7 +8,7 @@ My Github stats:
 The code language I use:  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckDuckStudio&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-The languages I can say:  
+Languages I speak:  
 | Language | How? |
 |-----|-----|
 | 中文(简体) | 母语 |
@@ -16,7 +16,7 @@ The languages I can say:
 | English | Just a little bit |
 | 日本語 | 一部しか読めない |
 
-## See my website?
+## Look at my page?
 These are the pages you can view now:  
 | Website | Show what |
 |-----|-----|
