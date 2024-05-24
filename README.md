@@ -1,4 +1,4 @@
-# Hello! I am 鸭鸭「カモ」!
+# Hello, I am 鸭鸭「カモ」!
 I am a student currently writing some interesting things.  
 I DON'T use X (Twitter) often.  
 
@@ -21,13 +21,12 @@ These are the pages you can view now:
 | Website | Show what |
 |-----|-----|
 | [Personal homepage](https://duckduckstudio.github.io/yazicbs.github.io/) | Look what I'm doing. |
-| [Articles](https://duckduckstudio.github.io/yazicbs.github.io/Articles/) | My Articles and Blogs and Notes. |
+| [Articles](https://duckduckstudio.github.io/Articles/) | My Articles and Blogs and Notes. |
 | [Tools](https://duckduckstudio.github.io/yazicbs.github.io/Tools/) | Some of the tools I've made. |
 | [Interesting](https://github.com/DuckDuckStudio/yazicbs.github.io/tree/main/Interesting) | Some fun webpage, and they are NO EXTERNAL LINKS to they. |
 | [A Certain Duck's Minecraft World](https://duckduckstudio.github.io/yazicbs.github.io/minecraft/) | A Certain Duck's Minecraft World. |
 | [A Certain Duck's Genshin Impact Daily Life](https://duckduckstudio.github.io/yazicbs.github.io/GenshinImpact/) | A Certain Duck's "Genshin Impact" Daily (Photos&Video) |
 | [Fufu Tools](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/) | Official website of Fufu Tools. |
-| [A certain duck's record of Music games](https://duckduckstudio.github.io/yazicbs.github.io/music_games/) | A certain duck's record of Music games. |
 And so on ...  
 
 ## Contact me?  
