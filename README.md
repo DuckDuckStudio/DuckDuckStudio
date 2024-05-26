@@ -16,18 +16,13 @@ Languages I speak:
 | English | Just a little bit |
 | 日本語 | 一部しか読めない |
 
-## Look at my page?
-These are the pages you can view now:  
-| Website | Show what |
-|-----|-----|
-| [Personal homepage](https://duckduckstudio.github.io/yazicbs.github.io/) | Look what I'm doing. |
-| [Articles](https://duckduckstudio.github.io/Articles/) | My Articles and Blogs and Notes. |
-| [Tools](https://duckduckstudio.github.io/yazicbs.github.io/Tools/) | Some of the tools I've made. |
-| [Interesting](https://github.com/DuckDuckStudio/yazicbs.github.io/tree/main/Interesting) | Some fun webpage, and they are NO EXTERNAL LINKS to they. |
-| [A Certain Duck's Minecraft World](https://duckduckstudio.github.io/yazicbs.github.io/minecraft/) | A Certain Duck's Minecraft World. |
-| [A Certain Duck's Genshin Impact Daily Life](https://duckduckstudio.github.io/yazicbs.github.io/GenshinImpact/) | A Certain Duck's "Genshin Impact" Daily (Photos&Video) |
-| [Fufu Tools](https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/) | Official website of Fufu Tools. |
-And so on ...  
+## How to use the CSS style sheet I have written?
+To use the CSS style sheet I have written, which is open source under the **[GPL-3](https://github.com/DuckDuckStudio/yazicbs.github.io/blob/main/LICENSE)** license, use the following code to add the Fufu Tools universal style sheet to your webpage:  
+```html
+<!-- Fufu Tools Universal Style for Web Pages by 鸭鸭「カモ」 -->
+<link rel="stylesheet" href="https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/css/universal.css">
+```
+Other version? See [this webpage](https://github.com/DuckDuckStudio/yazicbs.github.io/tree/main/Tools/Fufu_Tools/css).
 
 ## Contact me?  
 Email: <Yzcbs123@163.com>  
