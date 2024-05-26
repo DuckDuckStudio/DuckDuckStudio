@@ -22,7 +22,7 @@ To use the CSS style sheet I have written, which is open source under the **[GPL
 <!-- Fufu Tools Universal Style for Web Pages by 鸭鸭「カモ」 -->
 <link rel="stylesheet" href="https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/css/universal.css">
 ```
-Other version? See [this webpage](https://github.com/DuckDuckStudio/yazicbs.github.io/tree/main/Tools/Fufu_Tools/css).
+Other version? See [this page](https://github.com/DuckDuckStudio/yazicbs.github.io/tree/main/Tools/Fufu_Tools/css).
 
 ## Contact me?  
 Email: <Yzcbs123@163.com>  
