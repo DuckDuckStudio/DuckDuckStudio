@@ -13,7 +13,7 @@ Languages I speak:
 |-----|-----|
 | 中文(简体) | 母语 |
 | 中文(繁體) | 看得懂，也會說，不會寫 |
-| English | Just a little bit |
+| English | Will only a little bit. |
 | 日本語 | 一部しか読めない |
 
 ## How to use the CSS style sheet I have written?
