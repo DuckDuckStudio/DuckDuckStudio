@@ -11,8 +11,7 @@ The code language I use:
 Languages I speak:  
 | Language | How? |
 |-----|-----|
-| 中文(简体) | 母语 |
-| 中文(繁體) | 看得懂，也會說，不會寫 |
+| 中文 | 母语 |
 | English | Will only a little bit. |
 | 日本語 | 一部しか読めない |
 
