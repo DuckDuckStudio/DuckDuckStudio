@@ -15,14 +15,6 @@ Languages I speak:
 | English | How are you? --I'm fine, thank you. And you? (XD) |
 | 日本語 | 一部しか読めない |
 
-## How to use the CSS style sheet I have written?
-To use the CSS style sheet I have written, which is open source under the **[GPL-3](https://github.com/DuckDuckStudio/yazicbs.github.io/blob/main/LICENSE)** license, use the following code to add the Fufu Tools universal style sheet to your webpage:  
-```html
-<!-- Fufu Tools Universal Style for Web Pages by 鸭鸭「カモ」 -->
-<link rel="stylesheet" href="https://duckduckstudio.github.io/yazicbs.github.io/Tools/Fufu_Tools/css/universal.css">
-```
-Other version? See [this page](https://github.com/DuckDuckStudio/yazicbs.github.io/tree/main/Tools/Fufu_Tools/css).
-
 ## Contact me?  
 Email: <Yzcbs123@163.com>  
 QQ：1707230454  
