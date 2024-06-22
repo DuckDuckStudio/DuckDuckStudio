@@ -12,7 +12,7 @@ Languages I speak:
 | Language | How? |
 |-----|-----|
 | 中文 | 母语 |
-| English | Will only a little bit. |
+| English | How are you? --I'm fine, thank you. And you? (XD) |
 | 日本語 | 一部しか読めない |
 
 ## How to use the CSS style sheet I have written?
