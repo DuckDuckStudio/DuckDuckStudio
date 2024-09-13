@@ -2,7 +2,7 @@
 I am a student currently writing some interesting things.  
 I DON'T use X (Twitter) often.  
 
-![加强公民防骗意识，守好自己的钱袋子](https://duckduckstudio.github.io/yazicbs.github.io/pictures/加强公民防骗意识，守好自己的钱袋子.png)
+[![加强公民防骗意识，守好自己的钱袋子](https://duckduckstudio.github.io/yazicbs.github.io/pictures/加强公民防骗意识，守好自己的钱袋子.png)](https://www.xm.gov.cn/ftzb/gajjsdjdxwlzp/)  
 
 ## My Github stats:  
 ![鸭鸭「カモ」的 GitHub stats](https://github-readme-stats.vercel.app/api?username=DuckDuckStudio&show_icons=true)
