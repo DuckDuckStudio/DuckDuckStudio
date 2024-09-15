@@ -14,6 +14,7 @@ I DON'T use X (Twitter) often.
 | Language | How? |
 |-----|-----|
 | 中文 | 母语 |
+| 闽南语 (漳州) | 爱拼~才会赢~ |
 | English | How are you? --I'm fine, thank you. And you? (XD) |
 | 日本語 | 一部しか読めない |
 
