@@ -8,10 +8,10 @@
 [![加强公民防骗意识，守好自己的钱袋子](https://duckduckstudio.github.io/yazicbs.github.io/pictures/加强公民防骗意识，守好自己的钱袋子.png)](https://www.xm.gov.cn/ftzb/gajjsdjdxwlzp/)  
 
 ## 我的 GitHub 状态:  
-![鸭鸭「カモ」的 GitHub 状态](https://github-readme-stats.vercel.app/api?username=DuckDuckStudio&show_icons=true)
+![鸭鸭「カモ」的 GitHub 状态](https://github-readme-stats.vercel.app/api?username=DuckDuckStudio&show_icons=true&locale=cn)
 
 ## 我使用的代码语言:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckDuckStudio&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckDuckStudio&layout=compact&locale=cn&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 我会什么语言:  
 | 语言 | 怎样? |
