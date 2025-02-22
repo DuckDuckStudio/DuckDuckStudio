@@ -4,7 +4,10 @@ I DON'T use X (Twitter) often.
 
 > [简中 Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/main/README-zh.md)  
 
-[![加强公民防骗意识，守好自己的钱袋子](https://duckduckstudio.github.io/yazicbs.github.io/pictures/加强公民防骗意识，守好自己的钱袋子.png)](https://www.xm.gov.cn/ftzb/gajjsdjdxwlzp/)  
+https://github.com/user-attachments/assets/4a444b8f-86f9-4e27-9a8d-2b8f7f52eebe
+
+<p style="text-align: left; font-size: large;">We find, we strive, our journey of eternity</p>
+<p style="text-align: right; font-size: large;">Desire, in mind, to set our spirits free</p>
 
 ## My Github stats:  
 
