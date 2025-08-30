@@ -1,6 +1,5 @@
 # Hello, I am 鸭鸭「カモ」!
 I am a student currently writing some interesting things.  
-I DON'T use X (Twitter) often.  
 
 > [简中 Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/main/README-zh.md)  
 
