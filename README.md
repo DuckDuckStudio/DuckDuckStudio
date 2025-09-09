@@ -1,5 +1,5 @@
 # Hello, I am 鸭鸭「カモ」!
-I am a student currently writing some interesting things.  
+I am writing some interesting things.  
 
 > [简中 Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/main/README-zh.md)  
 

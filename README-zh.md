@@ -1,5 +1,5 @@
 # 你好，我是 鸭鸭「カモ」!
-我是一个学生，正在写一些有趣的东西。  
+我写一些有趣的东西。  
 
 > [English Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/main/README.md)  
 
