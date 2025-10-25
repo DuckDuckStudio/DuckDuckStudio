@@ -1,7 +1,7 @@
 # Hello, I am 鸭鸭「カモ」!
 I am writing some interesting things.  
 
-> [简中 Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/main/README-zh.md)  
+> [简中 Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/master/README-zh.md)  
 
 Loves coding, traveling and photography.  
 

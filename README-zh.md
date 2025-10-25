@@ -1,7 +1,7 @@
 # 你好，我是 鸭鸭「カモ」!
 我写一些有趣的东西。  
 
-> [English Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/main/README.md)  
+> [English Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/master/README.md)  
 
 ![[AI生成] 面里加可乐](images/AI-面里加可乐.png)
 
