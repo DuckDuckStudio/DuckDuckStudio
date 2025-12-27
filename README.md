@@ -1,7 +1,8 @@
 # Hello, I am 鸭鸭「カモ」!
-I am writing some interesting things.  
+I am writing some interesting stuff, see my pinned repository for details :)  
+Sometimes contribute to the [WinGet Package Community](https://github.com/microsoft/winget-pkgs).  
 
-> [简中 Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/main/README-zh.md)  
+> [简中 Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/master/README-zh.md)  
 
 Loves coding, traveling and photography.  
 
