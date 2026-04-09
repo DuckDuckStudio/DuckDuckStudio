@@ -13,3 +13,5 @@ Loves traveling, photography, and public transportation.
 </div>
 
 Check out my personal page for more information: [https://duckduckstudio.github.io/yazicbs.github.io/](https://duckduckstudio.github.io/yazicbs.github.io/)
+
+(By the way, I haven't been able to log into my Gitter account lately :()
