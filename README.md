@@ -4,7 +4,8 @@ Sometimes contribute to the [WinGet Package Community](https://github.com/micros
 
 > [简中 Page](https://github.com/DuckDuckStudio/DuckDuckStudio/blob/master/README-zh.md)  
 
-Loves traveling, photography, and public transportation.  
+Loves traveling and photography.  
+As well as some hobbies that might be a bit niche: [Rhythm games](https://baike.baidu.com/item/音乐游戏/906300), [public transportation](https://www.zhihu.com/question/2020412853006386723), listening to [FM/AM radio](https://duckduckstudio.github.io/Articles/如何怎样/radio.html).  
 
 ![sun & mountain](images/山，太阳.png)
 
