@@ -7,6 +7,22 @@ Sometimes contribute to the [WinGet Package Community](https://github.com/micros
 Loves traveling and photography.  
 As well as some hobbies that might be a bit niche: [Rhythm games](https://baike.baidu.com/item/音乐游戏/906300), [public transportation](https://www.zhihu.com/question/2020412853006386723), listening to [FM/AM radio](https://duckduckstudio.github.io/Articles/如何怎样/radio.html).  
 
+<!------------------------------------>
+
+<blockquote>
+<p><i>爱是无辜的风筝&nbsp;&nbsp;拉着最在乎的人<br>
+情已逝&nbsp;我还在&nbsp;&nbsp;注定一个人流浪</i></p>
+
+<div align="right">
+<p><i>爱是断线的风筝&nbsp;挣脱一开始的梦<br>
+黑暗中一步步地&nbsp;坠落红尘</i></p>
+
+<p style="text-align: right;"><em>《无辜》 by 曹格<em></p>
+</div>
+</blockquote>
+
+<!------------------------------------>
+
 ![sun & mountain](images/山，太阳.png)
 
 <div id="header">
