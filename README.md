@@ -7,10 +7,10 @@ Sometimes contribute to the [WinGet Package Community](https://github.com/micros
 Loves traveling and photography.  
 As well as some hobbies that might be a bit niche: [Rhythm games](https://baike.baidu.com/item/音乐游戏/906300), [public transportation](https://www.zhihu.com/question/2020412853006386723), listening to [FM/AM radio](https://duckduckstudio.github.io/Articles/如何怎样/radio.html).  
 
-![Illustration for Gary Chaw's《无辜》Lyrics](images/曹格《无辜》歌词插图.png)
-
 <details>
 <summary>爱是无辜的风筝，拉着最在乎的人...</summary>
+
+![Illustration for Gary Chaw's《无辜》Lyrics](images/曹格《无辜》歌词插图.png)
 
 > The lyrics in the illustration are from the song《无辜》on Gary Chaw's 2007 album _Super Sunshine_.  
 > In 2008, this song was awarded the _Top 20 Most Popular Songs (最受欢迎20大金曲)_ prize at the 8th _Global Chinese Music Awards_, and even though more than a decade has passed, Music Radio (总台音乐之声) still plays this song today.  
